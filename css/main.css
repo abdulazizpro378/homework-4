@@ -1,0 +1,53 @@
+.navbar {
+  background-color: rgb(40, 42, 53);
+  height: 80px;
+  text-align: center;
+  font-size: 25px;
+  word-spacing: 20px;
+  height: 60px;
+}
+.navbar a {
+  color: white;
+  text-decoration: none;
+}
+.bn {
+  font-size: 25px;
+  border-radius: 10px;
+  height: 60px;
+  color: white;
+
+  background-color: rgb(4, 170, 109);
+}
+.abut {
+  background-color: rgb(127, 255, 212);
+}
+.abut p {
+  line-height: 40px;
+  text-indent: 20px;
+}
+.st {
+  height: 80px;
+  font-size: 30px;
+  border-radius: 10px;
+  background-color:rgb(4, 170, 109);
+}
+
+
+.wh {
+  height: 80px;
+  font-size: 30px;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+}
+.intro p {
+  line-height: 40px;
+  text-indent: 20px;
+}
+.cl {
+  height: 80px;
+  font-size: 30px;
+  border-radius: 10px;
+  background-color: green;
+  color: white;
+}
